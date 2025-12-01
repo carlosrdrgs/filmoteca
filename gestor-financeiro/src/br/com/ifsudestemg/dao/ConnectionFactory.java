@@ -5,7 +5,7 @@ import java.sql.DriverManager;
 import java.sql.SQLException;
 
 public class ConnectionFactory {
-	public static Connection getConnection() {
+	public Connection getConnection() {
 		try {
 			Class.forName("org.postgresql.Driver");
 			return DriverManager.getConnection(
