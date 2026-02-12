@@ -11,7 +11,7 @@ Módulo Desktop (Java Swing)
 
 Aplicativo Desktop desenvolvido para a gestão de coleções de filmes. O sistema permite que o usuário organize sua biblioteca pessoal através da importação de arquivos de texto e consulta de dados detalhados via interface gráfica.
 
-O projeto foi desenvolvido como parte da disciplina de Linguagem de Programação Visual (4º Período).
+O projeto foi desenvolvido como parte da disciplina de Linguagem de Programação Visual (4º Período).<br>
 🚀 Tecnologias Utilizadas
 
     Java 22 
@@ -43,13 +43,13 @@ O projeto foi desenvolvido como parte da disciplina de Linguagem de Programaçã
 O programa consome arquivos no formato UTF-8 seguindo o padrão abaixo:
 Plaintext
 
-#Filme 1
-título; ano; data de lançamento; classificação; duração; avaliação IMDB
-sinopse=Descrição do filme...
-gêneros=Ação; Drama
-diretor=Nome do Diretor
-autores=Autor 1; Autor 2
-elenco=Ator 1; Ator 2
+#Filme 1<br>
+título; ano; data de lançamento; classificação; duração; avaliação IMDB <br>
+sinopse=Descrição do filme... <br>
+gêneros=Ação; Drama <br>
+diretor=Nome do Diretor<br>
+autores=Autor 1; Autor 2<br>
+elenco=Ator 1; Ator 2<br>
 
     Nota: As imagens dos pôsteres devem seguir a nomenclatura filme1.png, filme2.png, etc., com resolução máxima de 250×371 pixels.
 
